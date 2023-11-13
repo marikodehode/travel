@@ -1,12 +1,12 @@
 import MAINPHOTO from "./assets/image/delove.webp";
 import "./App.css";
 import Gallery from "./Gallery";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+// import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
     <>
-      <Router>
+      {/* <Router> */}
         <nav>
           <ul>
             <li><a href="/"><p className="linkcolor">Hjem</p></a></li>
@@ -51,7 +51,7 @@ function App() {
 
       <footer></footer>
       </>
-      </Router>
+      {/* </Router> */}
     </>
   );
 }

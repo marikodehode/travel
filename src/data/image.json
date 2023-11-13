@@ -1,0 +1,88 @@
+{
+    "image":[
+        {
+        "country": "Nederland",
+        "city": "Amsterdam",
+        "image": "./src/assets/image/amsterdam.webp",
+        "alt":"Image 1"
+    },
+
+    {
+        "country": "China",
+        "city": "Hong Kong",
+        "image": "./src/assets/image/hongkong.webp",
+        "alt":"Image 1"
+    },
+
+    {
+        "country": "Denmark",
+        "city": "Copenhagen",
+        "image": "./src/assets/image/kobenhavn.webp",
+        "alt":"Image 1"
+    },
+
+    {
+        "country": "England",
+        "city": "London",
+        "image": "./src/assets/image/london.webp",
+        "alt":"Image 1"
+    },
+
+    {
+        "country": "India",
+        "city": "New Delhi",
+        "image": "./src/assets/image/New-Delhi.webp",
+        "alt":"Image 1"
+    },
+
+    {
+        "country": "USA",
+        "city": "New York",
+        "image": "./src/assets/image/newyork.webp",
+        "alt":"Image 1"
+    },
+
+    {
+        "country": "Norway",
+        "city": "Oslo",
+        "image": "./src/assets/image/oslo.webp",
+        "alt":"Image 1"
+    },
+
+    {
+        "country": "Franch",
+        "city": "Paris",
+        "image": "./src/assets/image/paris.webp",
+        "alt":"Image 1"
+    },
+
+    {
+        "country": "Italy",
+        "city": "Rome",
+        "image": "./src/assets/image/roma.webp",
+        "alt":"Image 1"
+    },
+
+    {
+        "country": "Sweden",
+        "city": "Stockholm",
+        "image": "./src/assets/image/stockholm.webp",
+        "alt":"Image 1"
+    },
+
+    {
+        "country": "Australia",
+        "city": "Sydney",
+        "image": "./src/assets/image/sydney.webp",
+        "alt":"Image 1"
+    },
+
+    {
+        "country": "Japan",
+        "city": "Tokoyo",
+        "image": "./src/assets/image/tokyo.webp",
+        "alt":"Image 1"
+    }
+
+    ]
+}

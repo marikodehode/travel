@@ -1,4 +1,4 @@
-import MAINPHOTO from "./assets/image/delove.webp";
+import MAINPHOTO from "./assets/hovedside/delove.webp";
 import "./App.css";
 import Gallery from "./Gallery";
 // import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
